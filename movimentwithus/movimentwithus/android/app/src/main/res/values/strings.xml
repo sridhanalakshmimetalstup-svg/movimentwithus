@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">UsTwo</string>
-    <string name="widget_desc">Latest photo from your partner</string>
-    <string name="widget_empty">No photos yet 💌</string>
-</resources>
